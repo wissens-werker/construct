@@ -4,6 +4,8 @@ René Tobner, EIN Philosoph der Reflexion
 [edit] note on smooth economy, ironing out frictions
 [edit] Is there a devil?
 
+* Personal Health and Social Health
+  
 individual vs. society ("I" vs. "We")
 
 What is possible for us? Is there a god? What's the best society to live in, to flourish?
@@ -23,7 +25,7 @@ OWN HEALTH
 
 *AND*
 
-- the MIND and its reflection
+- the MIND and its reflection (also see bottom /human event machine/, beware shock, at first)
   - AIMING at X
   - having the identity: f(x) = x + some judgement:
     - Is X attractive?
@@ -35,7 +37,7 @@ OWN HEALTH
 -------------------------------------------------------------------------------------------
 
 
-If above is true, what's left to think about for us as ppl IN NEED of living together?
+If above is true, WHAT'S LEFT (beyong being a /human event machine/) to think about for us as ppl IN NEED of living together?
 
 HEALTH OF SOCIETY
 
@@ -58,3 +60,19 @@ pros:
 
 
 (*) Beware: Das menschliche Tier kann sich nur im Sozialen vereinzeln!
+
+
+** INFO human event machine / thinking (reflection) about events (inner/outer) / AI 
+- personal vs. social intelligence
+  - mutual enrichment of the personal and the social (growing language, growing tradition, growing brain)
+    - i.e. our cultural evolution, what makes us human!
+    - cultural evol. vs. natural one
+- ONE CYCLE, ONE THOUGHT (sequential, concept of event machine from programing languages [PL] makes sense, i.e. node.js event loop): what do we do with it?
+  - constructing coherent "picture" of the world we peceive
+  - memory of coherent thoughts we do not doubt (how to we commit information to our memory? how is it encoded? Does Church encoding play a role?)
+  - memory of thoughts we do doubt (plus: undecidable ones, anyway: non associative to valid facts collected)
+    - makes our thinking slower by making us inclined to revalidate already established coherent facts (to keep our world view intact/coherent)
+  - PANDORA'S BOX:
+    - free -- but mechanical -- will of the human machine :: adding new ideas to our set of coherent thoughts / our valid personal record
+    - some (un-)safety in big picture: random evolution on this planet, social intelligence, an ABIOGRAPHICAL record we miss most of the time
+- the world of a host should be enough to life forms to flourish, proven by humans acting in my world with agents; how to do it with artificial agents? 
