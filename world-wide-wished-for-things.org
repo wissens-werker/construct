@@ -20,20 +20,17 @@
   3. just go on as usual with foreign work force, but some betterment of salary for all
      - workers who feel the urge to return in their home countries should have enough incentive to do so (by 1.)
   4. refugees/oppressed -- for too much pressure on Europe
-     - strong countries need to give some more freedom to weaker ones
+     - strong countries (esp. USA) need to give some more freedom to weaker ones
        - nationstates for Palestines and Kurds
          - Israel and Turkey can arrange for that in due time
        - end of war esp. in Syria, Yemen via additional troups (more investment in United Nations army, NATO needs to be more neutral)
-         - Mr. Assad is capable I think
+         - Mr. Assad has some good command?!
          - Yemen as neutral as possible (w/o Saudi-Arabia having too much to say)
        - other peoples under distress
          - ex-Jugoslavia: maybe reunion possible?
-         - Krim? should be ok to stay with Russia!
+         - Krim? should be ok to stay with Russia
   5. digital infrastructure
      - blockchain for the world to inspect and control economic differences of the nations and to finally have some good grasp on managing volatility of markets
-       - no problem for legal economy, but (crime) activities of e.g. prostitution (unfree) cannot be erased easily
-         - still reliable numbers would be great
-         - sth. which can only be begotten by powerful rule?!
      - fiber/5G
      - ...
   6. the end of all philosophy: ultimate wisdom reached: possibility to empower humans with reasonable thinking in every aspect (What is god? Who is our creator?)
@@ -41,10 +38,7 @@
      - knowledge about reflection (e.g. human event machine, no god) => quick think w/o doubts
        - empowering thinking and body via natural means and a culture of cooperation (modernity) vs. oppressing body and thought via artificial means (tradition)
          - privacy is necessary for mastery of body, full capacity of the mind
-           - can ppl stay reasonable? the decision vs. feelings of revenge
-     ! but also real free? (may detect I -- depends on level of alignment)
-       - frequency jamming
-       - magic hat police necessary yet
+           - can ppl stay reasonable? the decision (Readme.org) vs. criticism ending in violence
 * INFO public infrastructure vs. private business / both necessary
 - freedom of browsers vs. monetization
   - via ads (adblockers pain in the ass for enterprises promoting some product)
@@ -55,41 +49,25 @@
 It's better when it's free. Regarding sex def., but still ppl want to have a product to sell...
 private vs. public tools production [economy/Ökonomie]
 * INFO functionally employing ppl vs. automatization/robotics (pretty much [far] away future)
-- slave workers vs. functional workers by reason (how much laziness is an issue?)
-  - GDR was trying to solve worker question via I enslavement and it worked, but wasn't enough, state bureaucracy already at the brink of collapse (employing so many officers)
-  - also influencers found by inspection of consciousness that trust in socialism ("diese Bonzen") was subpar
-- what can be known to general public:
-  - more shifts, more ppl in work, 12 EUR proposal (in Germany by SPD) as minimum wage already means a lot, but with more shifts and less hours it's very probably not enough
+- regular workers vs. functional workers by reason (how much laziness is an issue?)
+- more shifts, more ppl in work, 12 EUR proposal (in Germany by SPD) as minimum wage already means a lot, but with more shifts and less hours it's very probably not enough
   - time employment agencies really do not help
     - flexible employment of workers without temp agencies?
 - what is behind the scenes:
   - we need a means to exchange goods
-    - money with inner worth : Bitcoin
+    - money with inner worth : Bitcoin (a new gold standard)
     - fiat money (since gold standard was abandoned -- Bretton Woods):
       - any regular national currency on this planet
       - creation ex nihilo since Bretton Woods ever more
-    - the play about the money must continue to have day to day trust in our future / to sustain ourselves with goods (Waren: Haus, Auto, Lebensmittel)
-- good parenting should be possible
-  - time for children in the evening, maybe not every evening for late time shopping should be possible
-  - automatization should solve this in the future, but how much automatization do we want?
-    - In the end as much as possible I surmise.
-    - There should be enough interactions with ppl besides shopping ones left, we cannot yet imagine this, but more robotics will come.
-* INFO slave businesses: conversion of investment is recommended and incentivized
-conversion of those businesses (like money extortion, prostitution) is recommended and is INCENTIVIZED by the plan in order to rule out slave businesses in general and lifting some grudges (just too much new thinking I brought)
-- benign slavery: personal slaves/servants in your own household/estate is OK
-  - private sex slavery is not recommended but OK for tradition is trained this way!
-- some more reasons:
-  - just my personal opinion: why would I like this, if me and my wife were endangered by this practice?
-  - adjustment to all this new stuff I brought is just so difficult
-  - older generations is maybe too much used to this sex business and private usage of slaves
-  - we really need some time to implement the plan, so it's good to keep everyone satisfied, even if we do not like this practice
-  - in time reason will prevail and it's somewhat unclear when for so many ppl are involved...
-    - self-sex already had some impact on prostitution activity which left some business owners quite unhappy
+    - the "play" about the money must continue to have day to day trust in our future / to sustain ourselves with goods (Waren: Haus, Auto, Lebensmittel)
+- good parenting should be possible (time for job vs. time for family)
+* INFO crime / "slave" businesses
+Just a reminder of corruption in society (Menschenhandel, human trafficking, corruption of police -- all this is possible in dark corners of society)
 * TODO unemployment management / guarding against poverty / smooth economy
 - banks have a duty to uphold real econmy (among other things)
   - bitcoin may be a gold standard (it is by technical means and also by ppl having trust in it, but will others allow it?), but distribution of wealth and stability might be at odds sometimes
 - parity with employed workers regarding Christmas bonus (end-of-year bonus)
-- auf der Schwelle zum neuen Jahr, Konjunktur ankurbeln (to reflate the markte at the doorstep to the new year) [saumseelig with Mr. Schulz]
+- auf der Schwelle zum neuen Jahr, Konjunktur ankurbeln (to reflate the market at the doorstep to the new year)
 - Why Zeitarbeitsfirmen if unemployment agency can deal with it?
 ** WORKING HOURS
 *** example
@@ -110,8 +88,6 @@ conversion of those businesses (like money extortion, prostitution) is recommend
 - aligning by dancing (cf. China, Wuhan experiment)
 - coffee shops in order to be able to lear about your body in privacy (being your own doctor)
 ** INFO China proud again (Wuhan: so much progress)
-- some medical experts needed to be shutdown (eolIFE or bad media) for hoax continue
-  - Spiegel could manage w/o eol! :-)
 ** RÜCKFRAGE How much cancer is related to psychic condition? (being fearful about becoming ill?)
 - natural relegion helps to eradicte this fear completely
 * TODO e-government / efficient bureaucracy
@@ -119,6 +95,7 @@ conversion of those businesses (like money extortion, prostitution) is recommend
   - easier paperwork
   - having skilled ppl (England: north-south-gap)
   - cf. theconversation.com SME bedrock british econommy, gov.uk Local Industrial Strategies (2018)
+- e-government tooling from Estonia, Sweden!!! (so much Open/Free Software available already)
 * @WORK more (green) energy
 ** solar power from Africa or even souther Europe
 - Australia is delivering sun energy to Singapore by 2027 (Sun Cable)
@@ -148,7 +125,7 @@ irgendwie muss Leistung belohnt werden ;
 Meritokratie und Technokratie hand in hand
 
 ** to have ONE OPEN SOURCE PRODUCT ready for markets in companies and state economy planning? covering all the use cases?
-** TODO each country having control over its currencie's value
+** TODO each country having control over its currency's value
 - to only rely on Bitcoin/btc is too much?!
 - currently Europe's Euro model just sharpens economic imbalances between member states, for weak economic power of one country cannot be balanced by decreasing one state's own currency value
   - maybe it still makes sense to keep Euro, for each country euro country managed on blockchain weights can be applied???
@@ -299,9 +276,6 @@ more reasons for self sex
   - (step-)fathers engaging with children (why not with his partner, i.e. wife/husband ?)
 - to avoid: having stable partnerships, also:
   - self-sex (cushion-condom, dildo): why force anyone to have sex with you if you can do it and (potentially) enjoy it way more -> ruling out paedophilia (endangering the freedom (biographical free will) of the child)
-**** abuse when succumbing
-- an ordinary thing in the Realm for power as I is not to be exposed
-- hard to get rid off, but again self-sex might soften this practice
 * @WORK clash of cultures vs. integration of cultures / cultural religions vs. one natural religion
 - natural big picture (evolution) vs. cultural big picture (natural religion, reasonable politics)
 - not easy to make integration happen with all the different emerged aspects of cultural life, among these religion is a major obstruction for integration
@@ -336,47 +310,3 @@ more reasons for self sex
   - a programming language (PL) to describe natural language(s) to have a precise formulation which can be used at court
   - this PL based on lambda calculus and is dependently typed, which means it's very expressive and consitency of laws is machine checkable
   - there really some effort to encode all this (also for the different nat. languages), but the key point is still to have consistency (hopefully less lawyers / law bureaucracy needed to manage laws)
-    
-* WAT?! rule out crime by reason and I
-- by reason: no more violent action because of relationship envy
-  - Affekthandlung = emotional act
-  - Totschlag = homicide
-- by I: inspection of suspects like usual
-- sex in prisons via selfsex; had to be forced and after some time it worked for some; this group could convince other inmates?! less testosteron, way more relaxed prison life?! no stressing out other inmates to have sex with you!
-* DONE +problem+: exposing alignment to make clear symmetry is important
-- but, how to introduce Theory of Everything / getting some groups into the boat / aligning religion and physics?
-  - lambda the ultimate
-  - w/o exposing alignment of the body?
-    - not speaking about body symmetry, but reflection is possible
-    - reflection as:
-      - identity (mirror, eyes, identity-function)
-        - finding identity, religion?
-      - principle of physics for example
-* DONE unnecessary: immunization (w/o) agents AND covid test should be implemented as soon as possible
-- unnecessary for rinsing if allowed
-- my proposal SEEMS to acceptable by all parties, is practical in the current situation
-  - also my viewpoint vs. Hobbes' is really something worth considering (Hobbes' humans need to be subdued by Leviathan, cannot be made completely reasonable in greater societies [how to deal with crowds of ppl in 18th century London?]
-
-How to get out of Covid/Corona and have time to plan new society?
-
-- we have a narrow market syndrom by lockdown/Covid
-- we need to regain economic stability by getting rid of Covid somehow
-  for:
-  - worst case: civilized ppl transform into the "mob" ever more by economic insecurity
-  - regular case: everyone somewhat unhappy (less money and/or no work) and unsure about future development
-
-- therefore I wish to have as soon as possible
-  - medical testing for Covid (which turns out negative)
-  AND
-  - vaccine with agents cannot really be disallowed for
-    some level of control is requested!
-    - but: in Germany almost noone will take the agent-vaccine? (concerns: what about long term studies? Is it really safe? blablabla...)
-    - can it be forced? rather not?!
-
-IN ORDER TO FINALLY END COVID
-
-- maybe we can even save Christmas?
-  (even ppl travelling to their families will be seen as a risk under Covid-lock)
-- Christmas 2020 was fucked up already, so Sylvester/New Year should be happy already!
-- <2021-01-07 Do> still waiting...
-
