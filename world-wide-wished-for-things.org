@@ -1,6 +1,10 @@
 #+TODO: TODO @WORK RÜCKFRAGE WAT?! | DONE INFO WAITING
 #+STARTUP: indent
 #+TITLE: world-wide wished for things
+* TODO Maintaining/improving this file with others
+- work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
+- one mirror for now: https://gitlab.com/wissens-werker/construct
+  - not safe enough, too (replicated setup of maintainers, issues etc.), just for now to spread responsibility
 * TODO IN GENERAL: a functional state for functional citizens
 - world-wide poltical agenda: native sustainable workers of a sustainable capitalistic economy, i.e. not going bankrupt every 10-20 years or so
   mixture of Amsterdam / Singapore / Luxemburg?
