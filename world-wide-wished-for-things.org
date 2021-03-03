@@ -215,7 +215,7 @@ Meritokratie und Technokratie hand in hand
 ** digital classroom
 - HPI Schul-cloud
 ** TODO sexual education
-*** sexual preference by training / one may assume metrosexuality as norm
+*** DONE sexual preference by training / one may assume metrosexuality as norm
 [edit] natural standard (hetero) vs. cultural standard (metro)
 - sexual preference is established by being trained in social context
   - being gay or lesbian is just by training
