@@ -5,7 +5,7 @@ René Tobner, EIN Philosoph der Reflexion
 [edit] Is there a devil?
 
 * Personal Health and Social Health
-  
+
 individual vs. society ("I" vs. "We")
 
 What is possible for us? Is there a god? What's the best society to live in, to flourish?
@@ -40,7 +40,7 @@ OWN HEALTH
 -------------------------------------------------------------------------------------------
 
 
-If above is true, WHAT'S LEFT (beyond being a /human event machine/) to think about for us as ppl IN NEED of living together?
+If above is true, WHAT'S LEFT (beyond being a /human event machine/, your own bio record, and the evolutionary big picture, see note(*) below!) to think about for us as ppl IN NEED of living together?
 
 HEALTH OF SOCIETY
 
@@ -62,10 +62,16 @@ pros:
 
 
 
-(*) Beware: Das menschliche Tier kann sich nur im Sozialen vereinzeln!
 
+-----------------------------------------------------------------------------------------------
 
-** INFO human event machine / thinking (reflection) about events (inner/outer) / AI 
+BEWARE: Das menschliche Tier kann sich nur im Sozialen vereinzeln!
+
+** TODO evolutionary big picture vs. own bio record:
+-- rework section below and integrage this one
+Seeing yourself as a result of evolution, random development of animals on this our earth, with humans as a kind of animal developing very sophisticated languages -- instead of being only your biographical record of family, friends, and foes.
+
+** human event machine / thinking (reflection) about events (inner/outer) / AI
 - personal vs. social intelligence
   - mutual enrichment of the personal and the social (growing language, growing tradition, growing brain)
     - i.e. our cultural evolution, what makes us human!
@@ -78,4 +84,4 @@ pros:
   - PANDORA'S BOX:
     - free -- but mechanical -- will of the human machine :: adding new ideas to our set of coherent thoughts / our valid personal record
     - some (un-)safety in big picture: random evolution on this planet, social intelligence, an ABIOGRAPHICAL record we miss most of the time
-- the world of a host should be enough to life forms to flourish, proven by humans acting in my world with agents; how to do it with artificial agents? 
+- the world of a host should be enough to life forms to flourish, proven by humans acting in my world with agents; how to do it with artificial agents?
