@@ -73,6 +73,8 @@ Just a reminder of corruption in society (Menschenhandel, human trafficking, cor
 - parity with employed workers regarding Christmas bonus (end-of-year bonus)
 - auf der Schwelle zum neuen Jahr, Konjunktur ankurbeln (to reflate the market at the doorstep to the new year)
 - Why Zeitarbeitsfirmen if unemployment agency can deal with it?
+** GER: unnecessary split between Job Center and Bundesagentur für Arbeit?!
+- could be managed in one go, only one database managing ppl out of work
 ** WORKING HOURS
 *** example
 - ALDI had a poll extending opening times LIDL-like (until 22pm) and ALDI workers denied this (stayed with 20pm)
