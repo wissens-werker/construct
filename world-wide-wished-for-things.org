@@ -53,6 +53,7 @@
 ** WAITING unhealthy nourishment
 - somehow safety, I guess, i.e. gluten is too much and production can be adjusted
 - /fomentation/ (lauwarme /Umschläge/ [lukewarm-wet towels] für den Hals, da eine schleichende Blockade im Schlaf möglich; Erkalten der Umschläge: automatisches Erwachen, sodann Durchspülen/Rinsen)
+  - maybe the towel getting cold is not that good -- I haven't tried it! own risk!
 * INFO public infrastructure vs. private business / both necessary
 - freedom of browsers vs. monetization
   - via ads (adblockers pain in the ass for enterprises promoting some product)
