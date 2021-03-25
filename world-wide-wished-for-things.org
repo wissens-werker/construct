@@ -1,6 +1,13 @@
 #+TODO: TODO @WORK RÜCKFRAGE WAT?! | DONE INFO WAITING
 #+STARTUP: indent
 #+TITLE: world-wide wished for things
+* INFO Philosophenköniginnen und -könige sind erwünscht
+- Philosophenköniginnen gibt's schon ne ganze Menge
+- Symmetrie, Reflexion, Konstruieren vs. Teufel spielen und so..
+* INFO Why world-wide wihsed for things?
+- It's so huge? But it's only this planet in the known universe. But reflection is everywhere, suns, solar systems, ...
+- old: Fleisch and Ficken! (Trump foundation) Really? ok headlocks...
+- new: rice and rinse! 
 * TODO Maintaining/improving this file with others
 - work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
 - one mirror for now: https://gitlab.com/wissens-werker/construct
@@ -52,6 +59,9 @@
 * WAT?! security & peace of mind
 ** WAITING unhealthy nourishment
 - somehow safety, I guess, i.e. gluten is too much and production can be adjusted
+  - Lebensmittel mit Gluten zu mixen: keine gute Idee, spätestens wenn vom Magen verdaut -> pures Gluten kommt an den Kopfmuskeln vorbei [extreme Gefahr!] -- andererseits unter Abschirmung gutes (Weizen-)Eiweiß für Alignierung!
+  - in engl.: even mixed gluten bad/dangerous for if digested in belly pure gluten comes around; but otherwise gluten as wheat-protein very good for alignment
+    - when to switch off satellites to have enough nourishment (rice could be scarce, right?!)
 - /fomentation/ (lauwarme /Umschläge/ [lukewarm-wet towels] für den Hals, da eine schleichende Blockade im Schlaf möglich; Erkalten der Umschläge: automatisches Erwachen, sodann Durchspülen/Rinsen)
   - maybe the towel getting cold is not that good -- I haven't tried it! own risk!
 * INFO public infrastructure vs. private business / both necessary
