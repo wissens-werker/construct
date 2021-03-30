@@ -1,4 +1,6 @@
 * <2021-03-29 Mo> Switch off satellites OR make devils Yay! (better the last)
+- devils: porridge victims (commanded to play devils)
+  - others? IAT Sepherin...
 * <2021-03-29 Mo> Switch off satellites for mht communication over Germany!
 - too much harassment
 - calm finally
