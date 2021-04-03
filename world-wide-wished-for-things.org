@@ -230,6 +230,10 @@ Meritokratie und Technokratie hand in hand
 ** Kantorovich/linear programming
 - https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/
 - There are hierarchical levels to the "economy" and central planning may work well at some levels. Companies at the lower levels of the hiearchy are centrally planned entities with managers assigning tasks to employees instead of using a free market to distribute them within the organization. At the middle layer, the free market links these centrally planned companies and force them to compete. It's an open question whether having a centrally planned top layer to handle national economic strategy and steer market forces is better than letting the free market handle that as well.
+** TODO async class/module setup (load some data) on init
+- via IEFE (immediately executing function expression)? (Why to have a name for this?)
+- in current accepted industry standards (node.js, libuv): non-blocking behaviour would be expected
+- anyway: Ocaml and maybe blocking? execeptions (also in the type system), to be practical here
 ** TODO linear types and prototype objects
 - on a blockchain
 - dynamic and type-safe programming?!
