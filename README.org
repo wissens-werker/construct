@@ -4,14 +4,6 @@ https://github.com/wissens-werker/vita/blob/master/pics/My%20identity%20card%20_
 
 https://github.com/wissens-werker/vita/blob/master/pics/y-combinator-missing.jpg
 
-* yes, civilization is somewhere...
-- IBAN:         DE04100900001897144006
-- BIC:          BEVODEBB
-- Kontoinhaber: Rene Tobner
-  
-- or BTC: bc1qzdyt0xa2r39l4rhmuyvsmrd2z6uqs4w6cyys6s
-  
-
 A question which can finally be answered:
 Was kann man erhoffen? What's there to hope for, if Santa Clause and other merry stories are mere fairy tales?
 
@@ -91,9 +83,12 @@ pros:
 
 BEWARE: Das menschliche Tier kann sich nur im Sozialen vereinzeln!
 
-** TODO evolutionary big picture vs. own bio record:
--- rework section below and integrage this one
+** evolutionary big picture vs. own bio record/career/wrong and right actions in bio record
 Seeing yourself as a result of evolution, random development of animals on this our earth, with humans as a kind of animal developing very sophisticated languages -- instead of being only your biographical record of family, friends, and foes.
+
+Even technology to overpower others came into some hands by random. There is no justice in random development. Justice is established by having principles and rules (e.g. laws derived by principles of humanity like not killing others). But what principle lies at the very bottom of humanity? It's the decision for "construct". And everybody needs to agree to that, to have an everlasting empire... "construct" implies constructing together, therefore employer-employeer-relationships must be managed well by everyone, and supported by digital infrastructure.
+
+Having the smarts via rinsing has the potential to enable "construct", if appropriate learning is achieved.
 
 ** human event machine / thinking (reflection) about events (inner/outer) / AI
 - personal vs. social intelligence
