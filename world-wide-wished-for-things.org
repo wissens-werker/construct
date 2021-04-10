@@ -111,11 +111,6 @@ HOLDING ON TO THIS PRINCIPLE (related to not endangering free will):
     - Warum waren die unvernünftig? Machtposition (+ Gluten-I)
     - Können die vernünftig sein? Warum nicht? (may vary)
     - some other occupation, also as a method of reeducation? retail sector / Einzelhandel
-      - https://de.wikipedia.org/wiki/Einzelhandel
-        - necessary distinction?: small businesses (meat, bread) vs. monopolies (LIDL)
-        - what else will change?
-          - https://www.pressebox.de/pressemitteilung/autostore-system-gmbh/AutoStore-stellt-Innovation-Hub-zum-Testen-und-Replizieren-von-Supply-Chain-Umgebungen-vor/boxid/1049930
-          - but: the regional vs. international trade
       - and as always: more shifts, more ppl in work / mehr Arbeitsschichten, mehr Leute in Arbeit (am besten alle); also means generally shorter shifts (kürzere Arbeitszeiten) und mehr Zeit für das eigene Leben und das Leben anderer (quality time)
 - self-sex and better economic situation for all (why to offer child porn? too easy money...) is the answer to stay safe and keeping society safe from corruption
   - being out of sex drive via self-sex: have no bad conscience (about possible incrimination) while doing so
@@ -202,7 +197,8 @@ HOLDING ON TO THIS PRINCIPLE (related to not endangering free will):
 ** progess with fusion reactors?
 - arirang.com
 ** hydrogen energy for factories and trucks / not that good for (personal) cars?
-* @WORK economic kybernetics/supply chain optimization with free market of course
+* @WORK economics
+** INFO kybernetics/supply chain optimization with free market of course
 es muss immer IRGENDWAS ausgehandelt werden in den einzelnen Märkten, in Staaten, in Unternehmen (Lohn, Arbeitszeiten, value of a currency)
 Sachen, die nicht ausgehandelt werden müssen:
 Urlaub (ja der Staat macht das einfach! gesetzl. Regelungen..)
@@ -220,7 +216,16 @@ Politik gibt's ja auch noch für die Unternehmen... Wirtschaftsregulation
 irgendwie muss Leistung belohnt werden ;
 Meritokratie und Technokratie hand in hand
 
-** to have ONE OPEN SOURCE PRODUCT ready for markets in companies and state economy planning? covering all the use cases?
+** TODO complexity of free market economics vs. avoiding two class society via better (inter-)national planning
+- not endangering free will: not obstructing free market actors
+  - alignment will help a lot / also real police possible (way more complicated to have crime at all!)
+  - better digital infrastructure to negotiate trade matter will help a lot
+- https://de.wikipedia.org/wiki/Einzelhandel
+  - necessary distinction?: small businesses (meat, bread) vs. monopolies (LIDL)
+  - what else will change?
+    - https://www.pressebox.de/pressemitteilung/autostore-system-gmbh/AutoStore-stellt-Innovation-Hub-zum-Testen-und-Replizieren-von-Supply-Chain-Umgebungen-vor/boxid/1049930
+    - but: the regional vs. international trade
+** TODO to have ONE OPEN SOURCE PRODUCT ready for markets in companies and state economy planning? covering all the use cases?
 ** TODO each country having control over its currency's value
 - to only rely on Bitcoin/btc is too much?!
 - currently Europe's Euro model just sharpens economic imbalances between member states, for weak economic power of one country cannot be balanced by decreasing one state's own currency value
