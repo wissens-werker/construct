@@ -1,3 +1,6 @@
+* <2021-04-17 Sa>
+- diverse Banken nutzen die API bei bitcoin.de o.ä. Diensten (kostenpflichtig, B2B)
+  - das sollte die generelle Lösung sein für alle Banken (jaja, der Fortschritt, aber man kann einfach nicht aufhören mit dem Lernen...)
 * <2021-04-12 Mo> gluten lock prostitution vs. trust in the opposite sex
 
 - escalated situation in Trier and elsewhere since beginning of at least 2020? Esp. for women in prostitution under gluten lock
