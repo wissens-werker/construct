@@ -23,9 +23,9 @@ René Tobner, Philosoph der Reflexion
 
 
   - the remedy / die Heilung:
-    - I had a huge bump, so I look very tired / Ich hatte eine sehr große Unebenheit, deswegen sehe ich noch sehr müde aus: I https://github.com/wissens-werker/construct/blob/master/vids/Yay-surig-medium-hot-water-at-fingertips-press-head.mp4
+    - I had a huge bump, so I look very tired / Ich hatte eine sehr große Unebenheit, deswegen sehe ich noch sehr müde aus: I [[vids/Yay-surig-medium-hot-water-at-fingertips-press-head.mp4]]
     - but as a result I can smile again / aber in folge dessen fühlte ich mich wieder munter!
-      - https://github.com/wissens-werker/construct/blob/master/vids/Yay!.mp4
+      - [[vids/Yay!.mp4]]
     - nutrition / Ernährung:
         - rice (+ fat, [fruit-] sugar), BUT: meat and sleep
         - Reis (+ Fett, [Frucht-] Zucker), ABER: Fleisch zum Abendessen
