@@ -1,8 +1,23 @@
+* <2021-04-18 So> reaching (important) ppl
+- Are the important ppl themselves reachable? (everyone likes to be safe...)
+  if yes, the following makes no sense: (die übliche Vorgehensweise: nicht mehr so leicht)
+  - How to make sure you're the principal informer of someone if others can be safe via
+    - sit rinse
+    AND
+    - regular I
+      - w/o mht:
+        - no sig scan
+        - no geo coordinates
+- too much wild wild west anyway in most important heads, but consent for corruption/austerity the most easy common denominator
+- -> ANYWAY this is way easier:
+  - hidden? wiki (finally some real planning), safe E-mails
+  - plus: some I do get to some ppl
 * <2021-04-17 Sa>
+- ppl of country X very much opposed to nat. religion of "construct" (wasn't that clear back then this reflection, symmetry, construction programme), reflection seemed to simple, symmetry wasn't practical w/o sit rinse, "construct" in safety w/o corruption again impossible w/o sit rinse; but now planning in safety would be possible, neutrality as guiding principle
 - diverse Banken nutzen die API bei bitcoin.de o.ä. Diensten (kostenpflichtig, B2B)
   - das sollte die generelle Lösung sein für alle Banken (jaja, der Fortschritt, aber man kann einfach nicht aufhören mit dem Lernen...)
 - in general: new digital infrastructure for banks:
-  - Cardano: too much math; so Tezos and OCaml compiler optimizations are recommended
+  - Cardano: too much trust in math; so Tezos for governance and OCaml compiler optimizations are recommended
     
 * <2021-04-12 Mo> gluten lock prostitution vs. trust in the opposite sex
 
