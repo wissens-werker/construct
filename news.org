@@ -16,8 +16,11 @@
 - ppl of country X very much opposed to nat. religion of "construct" (wasn't that clear back then this reflection, symmetry, construction programme), reflection seemed to simple, symmetry wasn't practical w/o sit rinse, "construct" in safety w/o corruption again impossible w/o sit rinse; but now planning in safety would be possible, neutrality as guiding principle
 - diverse Banken nutzen die API bei bitcoin.de o.ä. Diensten (kostenpflichtig, B2B)
   - das sollte die generelle Lösung sein für alle Banken (jaja, der Fortschritt, aber man kann einfach nicht aufhören mit dem Lernen...)
-- in general: new digital infrastructure for banks:
-  - Cardano: too much trust in math; so Tezos for governance and OCaml compiler optimizations are recommended
+- in general: new digital infrastructure for everyone:
+  - Cardano: too much trust in math for now? (but research recommended: machine learning and self-amending [no human decision involved] algorithm + programming language RESEARCH [dealing with unknown: dependent types])
+  - Tezos for governance (self-amendable [humans need to decide] protocoll and OCaml compiler optimizations are recommended
+    - optimum/gold standard: to rely as much as possible on automatism (no human decision making involved), but have manual escape hatch at hand to deal with problems (tezos)
+      - so, optimizing tezos (regarding employer-employee relations and state-citizen interactions [taxes etc.]) while doing RESEARCH (also this Kantorovich area of research??!!!!) is recommended 
     
 * <2021-04-12 Mo> gluten lock prostitution vs. trust in the opposite sex
 
