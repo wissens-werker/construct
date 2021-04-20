@@ -20,7 +20,7 @@
   - Cardano: too much trust in math for now? (but research recommended: machine learning and self-amending [no human decision involved] algorithm + programming language RESEARCH [dealing with unknown: dependent types])
   - Tezos for governance (self-amendable [humans need to decide] protocoll and OCaml compiler optimizations are recommended
     - optimum/gold standard: to rely as much as possible on automatism (no human decision making involved), but have manual escape hatch at hand to deal with problems (tezos)
-      - so, optimizing tezos (regarding employer-employee relations and state-citizen interactions [taxes etc.], and inter-state negotiations [trade embargos etc.] = these negotiations = some kind of communication; smooth communication is progress [think: what internet did achieve!])
+      - so, optimizing tezos (regarding employer-employee relations and state-citizen interactions [taxes etc.], and inter-state negotiations [trade embargos etc.] = these negotiations = some kind of communication; smooth communication is progress [think: what internet did achieve!] => so by doing this global ledger, net of nets thing, success should be inevitable!)
         while
         doing RESEARCH (also this Kantorovich area of research??!!!!) is recommended
       - tricks ready vs. tricks in the long run
