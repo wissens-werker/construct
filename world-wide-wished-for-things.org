@@ -11,8 +11,8 @@
       - some women really can be safe by securing others for the first time in human history
 * INFO Why world-wide wihsed for things?
 - It's so huge? But it's only this planet in the known universe. But reflection is everywhere, suns, solar systems, ...
-- old: Fleisch and Ficken! (Trump foundation) Really? ok headlocks...
-- new: rice and rinse! 
+- old: Fleisch and Ficken
+- new: Rinse and Reason
 * TODO Maintaining/improving this file with others
 - work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
 - one mirror for now: https://gitlab.com/wissens-werker/construct
@@ -21,7 +21,7 @@
 - functional ppl (so many women) are united with my construct and that's it!!!
     - how much /unfreedom/ needs there to be? (slavery is so much ingrained in human "civilization", I know...)
       - some women really can be safe by securing others for the first time in human history
-        
+
 - world-wide poltical agenda: native sustainable workers of a sustainable capitalistic economy, i.e. not going bankrupt every 10-20 years or so
   mixture of Amsterdam / Singapore / Luxemburg?
 
@@ -140,6 +140,7 @@ HOLDING ON TO THIS PRINCIPLE (related to not endangering free will):
 - making functional ppl exposing alignment and awakening in privacy (real alignment impossible w/o this kind of autogenous training)
 - aligning by dancing (cf. China, Wuhan experiment)
 - coffee shops in order to be able to lear about your body in privacy (being your own doctor)
+- alcohol (and other drugs) and miscarried fetus or resulting disabilities
 ** exploring bestform of humans in privacy (focus/awareness on/of the body [rinsing, autogenous, autogenic training; underpressure: press other side of pain/dry spot first], automatic healing by satisfaction [food, THC, music, sleep, symmetric training])
 - der Natur wieder zu vertrauen, was kann das heißen?
   - sich selbst vertrauen können, weil man seinen Sexualtrieb unter Kontrolle hat!
@@ -201,6 +202,17 @@ es muss immer IRGENDWAS ausgehandelt werden in den einzelnen Märkten, in Staate
 Sachen, die nicht ausgehandelt werden müssen:
 Urlaub (ja der Staat macht das einfach! gesetzl. Regelungen..)
 
+
+- in general: new digital infrastructure for everyone:
+  - Cardano: too much trust in math for now? (but research recommended: machine learning and self-amending [no human decision involved] algorithm + programming language RESEARCH [dealing with unknown: dependent types])
+  - Tezos for governance (self-amendable [humans need to decide] protocoll and OCaml compiler optimizations are recommended
+    - optimum/gold standard: to rely as much as possible on automatism (no human decision making involved), but have manual escape hatch at hand to deal with problems (tezos)
+      - so,
+        - optimizing tezos (regarding employer-employee relations and state-citizen interactions [taxes etc.], and inter-state negotiations [trade embargos etc.] = these negotiations = some kind of communication; smooth communication is progress [think: what internet did achieve!] => so by doing this global ledger, net of nets thing, success should be inevitable!)
+      - while
+        - doing RESEARCH (also this Kantorovich area of research??!!!!) is recommended
+      - tricks ready vs. tricks in the long run
+
 Schritt für Schritt Abstimmung in diesen Märkten / Tezos Blockchain und die Protokollaushandlung
 EIN NETZ VON NETZEN / einzelne Unternehmen bis hin zur globalen Weltwirtschaft
 jeder ist irgendwo Teil eines Netzes
@@ -242,8 +254,6 @@ Meritokratie und Technokratie hand in hand
 ** TODO consensus algorithms
 - having a copy of sth. uniquely produced, those receiving the copy can make consensus
 - cf. zero knowledge proof
-** ethereum
-** tezos
 ** business management for everyone; connection to blockchain
 - SAP: more blockchain in Enterprise-Resource-Planning for the plan
   - makes really sense with this huge market share!!!
@@ -253,7 +263,10 @@ Meritokratie und Technokratie hand in hand
 - happy farmers
 - less feeding the world
 - how much meat is necessary? still (organic) meat nice to have!
-** cardano?!
+** ethereum
+- can wrap tezos
+** tezos!
+** cardano?
 ** Kantorovich/linear programming
 - https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/
 - There are hierarchical levels to the "economy" and central planning may work well at some levels. Companies at the lower levels of the hiearchy are centrally planned entities with managers assigning tasks to employees instead of using a free market to distribute them within the organization. At the middle layer, the free market links these centrally planned companies and force them to compete. It's an open question whether having a centrally planned top layer to handle national economic strategy and steer market forces is better than letting the free market handle that as well.
