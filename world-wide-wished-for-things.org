@@ -290,7 +290,12 @@ Meritokratie und Technokratie hand in hand
 - Zoom et al. in Corona times def. a stress test
 - state of the art of internet backbone? Huawei vs. Juniper (autonomous/self-driving networks?)
 - related: how good connection bandwidth? fiber to the home investment!!
-* education
+* education/research
+** AI
+- having two worlds makes research stupid, combining knowledge would finally be advised
+  - [[https://www.ft.com/content/1ff66eb9-166f-4082-958f-debe84e92e9e][What separates humans from AI? It’s doubt]]
+    - How they have to examine ppl is totally ridiculous!
+    - RIP: Dan Kaminsky
 ** WAT?! Thinking TOGETHER
 - artificial wordnets?
   - contacts
