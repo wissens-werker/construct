@@ -11,8 +11,9 @@
       - some women really can be safe by securing others for the first time in human history
 * INFO Why world-wide wihsed for things?
 - It's so huge? But it's only this planet in the known universe. But reflection is everywhere, suns, solar systems, ...
-- old: Fleisch and Ficken
-- new: Rinse and Reason
+- not only: Meat and +Meet+ (certainly no oppression reported here)
+- but: Rinse and Reason
+  - alignment: meet yourself and meet ourselves finally
 * TODO Maintaining/improving this file with others
 - work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
 - one mirror for now: https://gitlab.com/wissens-werker/construct
