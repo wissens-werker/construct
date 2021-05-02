@@ -1,3 +1,11 @@
+* <2021-05-02 So> internat. trade via internet inherently unsafe
+- kein System auf der Welt mit (U)EFI & IME (Intel Management Engine) sicher
+  - libreboot vs. IME?! (more work needs to be done?!)
+  - RNG (random number generator onboard) manipulierbar?! (SSL/TLS down the chimney => internat. trade because of Intel Server based systems has such a huge backdoor, impossible to condone if we care about safety)
+    - das gälte dann für jedes Intel basierte Computersystem (viele Server davon betroffen)
+    - => das heißt: der internationale Handel steht auf recht wackligen Füßen
+- Apple switching to ARM processors (more open processor design) might have been a good idea (even for reasons of efficiency, more cores?)
+
 * <2021-04-25 So> my general strategy
 - with absolute alignment via sit rinse known, this game is pretty much done
 
@@ -41,14 +49,23 @@
       - while
         - doing RESEARCH (also this Kantorovich area of research??!!!!) is recommended
       - tricks ready vs. tricks in the long run
-    
+
 * <2021-04-12 Mo> gluten lock prostitution vs. trust in the opposite sex
 
 - escalated situation in Trier and elsewhere since beginning of at least 2020? Esp. for women in prostitution under gluten lock
   - mainly women in gluten lock / vor allem Frauen im Glutenlock
     - eine relativ normaler Geschäftszweig und mal sehen, wie unsäglich genau das ist...
-  - just some other content to dwell in (not only, but: serious gender debate well packaged): https://www.youtube.com/watch?v=T8qeDWjAypo
+  - just some other content to dwell on (not only, but: serious gender debate well packaged): https://www.youtube.com/watch?v=T8qeDWjAypo
     - und: alles so ernst wegen den Gluten-Locks, ist es immer noch, aber diese Möglichkeiten mit Alignierung...
+    - und: wie soll man das genießen, wenn man von der eigenen Unfreiheit allzu genau weiß, immer wieder dort hinein verwiesen wird in diesen grausam-unmenschlichen Joch (in die Arbeit für andere) von den Freien? Na gut, jetzt kann alles sicher gemacht werden, dann kann man auch charmant Kritik an der Welt üben (auch hier steckt genug Unfreiheit), auch im Wissen darum, dass wir jetzt alles besser planen können...
+    - die Menschen: freie und unfreie vs. Sicherheit (also via health practice #1), Bildung (refinement of taste, behaviour), keine Planlosigkeit mehr
+      - frei: Menschen die nichts von I wissen + Meister (die sich gegenseitig meistern können, wie frei sind die?)
+        - Wer war denn wirklich frei? wohl eher jene, die nichts von I wissen, so wie ich, deswegen auch meine Neutralität als so wichtig erachtet
+        - nun kann man wirklich frei sein via rinse
+      - more shifts, more ppl in work, more time for refinement
+      - = Neutrale Union, worauf sonst zielen?
+
+
     - ob Herr T sich schon freut im Ruhestand Kinder zu ficken? das war/ist schon so ne typische Karriere, wenn man die Frauen genügend kennt, geht's dann mit Kindern nicht noch einfacher? (auch Herr Burns hat einst die Frauen versucht zu lieben...) ;-)
     - und denkt mal jemand an die Kinder? die "gewöhnlichen" Verdächtigen für Führungen und mehr sowie siehe oben...
       - ja z.B. St und die sucht auch noch ihr Kind...
