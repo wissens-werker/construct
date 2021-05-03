@@ -1,3 +1,5 @@
+* <2021-05-03 Mo> acting
+- the future: an old enemy, weak and powerless I am, what is allowed vs. what is possible (so much, haha)
 * <2021-05-02 So> internat. trade via internet inherently unsafe
 - kein System auf der Welt mit (U)EFI & IME (Intel Management Engine) sicher
   - libreboot vs. IME?! (more work needs to be done?!)
