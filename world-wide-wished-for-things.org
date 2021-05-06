@@ -14,6 +14,8 @@
 - not only: Meat and +Meet+ (certainly no oppression reported here)
 - but: Rinse and Reason
   - alignment: meet yourself and meet ourselves finally
+  - for Rinse you need energy, e.g.: pancakes (gluten), butter, (fruit-) sugar
+  - for Reasoning on your own you need no sugar (even carbs have sugar)
 * TODO Maintaining/improving this file with others
 - work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
 - one mirror for now: https://gitlab.com/wissens-werker/construct
