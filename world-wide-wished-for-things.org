@@ -183,6 +183,9 @@ HOLDING ON TO THIS PRINCIPLE (related to not endangering free will):
 ** RÜCKFRAGE How much cancer is related to psychic condition? (being fearful about becoming ill?)
 - natural relegion helps to eradicte this fear completely
 * TODO e-government / efficient bureaucracy
+- identity management: must be done right finally:
+  - Sovrin (pretty stable and in use)
+  - OCaml black box project?
 - really easy to create a company (cf. England's SME [small-medium-enterprises], Germany's Ich-AG)
   - easier paperwork
   - having skilled ppl (England: north-south-gap)
