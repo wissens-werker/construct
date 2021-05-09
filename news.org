@@ -1,3 +1,18 @@
+* <2021-05-09 So> Operating System (OS) security (rolling release vs. stable versions = two approaches, but sharing the load => will try other Linux Distros and multi boot...)
+- will try to Debian Stable or Red Hat distribution (or one distro based on these)
+  - for:
+    - way more ppl/maintainers here to look into safety (also many Kernel programmers Debian)
+    - market share of servers running Debian or Debian based systems (Ubuntu) so huge
+      - same for: Red Hat (Cent OS, Alpine)
+    - market share of clients (desktop pc, laptop) running Debian or Debian based systems (Ubuntu) so huge
+      - same for Red Hat (Fedora)
+    - rolling releases: feedback cycle from community AND testing new features: can be too much stress for safety of the system
+    - FreeBSD/OpenBSD also looks interesting
+    - what else?
+- will switch to BASH instead of ZSH
+  - BASH the accepted standard (most scripts are written in BASH) and too important as initial shell around the kernel (what shell to maintain)
+    - will I miss ZSH auto complete?
+  - zsh-prezto also too much overhead: git shorthands as alias in bashrc
 * <2021-05-05 Mi> let's not do this!
 - Mortal Kombat (2021) https://www.youtube.com/watch?v=VwU3SlQ723Q
   - "I may not understand your words, but ..."
