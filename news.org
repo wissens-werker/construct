@@ -17,6 +17,9 @@
   - RNG (random number generator onboard) manipulierbar?! (SSL/TLS down the chimney => internat. trade because of Intel Server based systems has such a huge backdoor, impossible to condone if we care about safety)
     - das gälte dann für jedes Intel basierte Computersystem (viele Server davon betroffen)
     - => das heißt: der internationale Handel steht auf recht wackligen Füßen
+    - but: more and more digital trade infrastructure on blockchain is safety because:
+      - validation by network nodes is supposedly done on different computer architectectures (AMD, Intel, ARM): sharing the load
+      - anything relying on a central authority, not under public control, has security and trust issues (E-Yuan = only nation state controlled, no real public control... issues enough)
 - Apple switching to ARM processors (more open processor design) might have been a good idea (even for reasons of efficiency, more cores?)
 
 * <2021-04-25 So> my general strategy
