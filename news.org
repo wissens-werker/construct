@@ -1,5 +1,8 @@
 * <2021-05-09 So> Operating System (OS) security (rolling release vs. stable versions = two approaches, but sharing the load => will try other Linux Distros and multi boot...)
 - TODO: setup scripts for various systems
+  - will try Debian Stable
+    - Debian Maintainership / trust / community
+      - https://wiki.debian.org/DebianMaintainer
 - will try to Debian Stable or Red Hat distribution (or one distro based on these)
   - for:
     - way more ppl/maintainers here to look into safety (also many Kernel programmers Debian)
