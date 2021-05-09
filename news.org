@@ -1,11 +1,12 @@
 * <2021-05-09 So> Operating System (OS) security (rolling release vs. stable versions = two approaches, but sharing the load => will try other Linux Distros and multi boot...)
+- TODO: setup scripts for various systems
 - will try to Debian Stable or Red Hat distribution (or one distro based on these)
   - for:
     - way more ppl/maintainers here to look into safety (also many Kernel programmers Debian)
     - market share of servers running Debian or Debian based systems (Ubuntu) so huge
       - same for: Red Hat (Cent OS, Alpine)
     - market share of clients (desktop pc, laptop) running Debian or Debian based systems (Ubuntu) so huge
-      - same for Red Hat (Fedora)
+      - similar for Red Hat (Fedora)
     - rolling releases: feedback cycle from community AND testing new features: can be too much stress for safety of the system
     - FreeBSD/OpenBSD also looks interesting
     - what else?
