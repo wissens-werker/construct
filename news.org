@@ -1,3 +1,9 @@
+* <2021-05-12 Mi> websockets vs. email
+how to do efficient data collecting? just send sth. out via E-Mail with JSON payload attachment, listen to that, no web sockets needed!
+  - even the oracle thing for blockchain, no one could think of an easy way to do it???? wat???!!!
+  - generelll: Thema Synchronisation von Daten... E-mail notifications!!!! email protocoll so battle tested, this vs. upgrading http prot., the latter a nightmare!!!
+    - insecurities of persistens connections induced by upgrading http to ws (pound supporting ws: rather not (know it from uberspace))
+
 * <2021-05-09 So> Operating System (OS) security (rolling release vs. stable versions = two approaches, but sharing the load => will try other Linux Distros and multi boot...)
 - TODO: setup scripts for various systems
   - will try Debian Stable
