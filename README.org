@@ -1,4 +1,4 @@
-#+Title: muscle head aches
+#+Title: Construct
 René Tobner, Philosoph der Reflexion
 * How to plan/construct for the world? How to have happiness for all? / Ist Glück für alle praktisch möglich? Wenn, dann nur so:
 - thinking about it, write it down
@@ -96,7 +96,7 @@ Was ist, wenn uns zu unserer menschlichen Gesundheit im Allgemeinen etwas fehlt:
 
 
 
-- René Tobner, Röntgenstraße 19, 54292 Trier, WG1 (Weiß, Neugebauer, Wiegleb)
+- René Tobner, Röntgenstraße 19, 54292 Trier
 
 https://github.com/wissens-werker/vita/blob/master/pics/My%20identity%20card%20_%20Personalausweis.mp4?raw=true
 
