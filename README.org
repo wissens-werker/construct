@@ -1,5 +1,9 @@
 #+Title: Construct
 René Tobner, Philosoph der Reflexion
+* Some doubts about carrying out this plan, advice
+- seems too good and too laborious? (digital infrastructure :P), many kings and queens died ...
+- real detailed planning and including nations will take at least 3 months
+- being sceptical about personal contact condoning this plan
 * How to plan/construct for the world? How to have happiness for all? / Ist Glück für alle praktisch möglich? Wenn, dann nur so:
 - thinking about it, write it down
   - [[./world-wide-wished-for-things.org]]
