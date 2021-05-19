@@ -1,9 +1,10 @@
 #+Title: Construct
 René Tobner, Philosoph der Reflexion
-* Some doubts about carrying out this plan, advice
+* Some doubts about carrying out this plan, advice, so many things to look into, but how long to keep exploring the design space? research vs. practical applications
 - seems too good and too laborious? (digital infrastructure :P), many kings and queens died ...
-- real detailed planning and including nations will take at least 3 months
+- real detailed planning and including nations will take at least X months
 - being sceptical about personal contact condoning this plan
+- not to distract or belittle the dangers, but MHT neural net mindsharing via long term exposure to a host (neural net as mediation layer between host and MHT client), what does that mean for humanity? Sharing thoughts and feelings so easy. Sharing more concrete knowledge like drawings on a chalkboard? How precise the communication can get? What can technology do to increase this experience? Example of precision when having MHT-computer communication (man-machine-interface): moving a pointer on a screen: the most important faculty of the mind: aiming and focussing on sth. translated onto the machine. Learning about my body movements and making a roboter move, translating this experience?
 * How to plan/construct for the world? How to have happiness for all? / Ist Glück für alle praktisch möglich? Wenn, dann nur so:
 - thinking about it, write it down
   - [[./world-wide-wished-for-things.org]]
