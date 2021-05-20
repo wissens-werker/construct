@@ -1,5 +1,7 @@
 #+Title: Construct
 René Tobner, Philosoph der Reflexion
+* shenti #1, Gesundheit zuerst, health first (finding rinse made this decision towards freedom possible, but is it allowed, all too cruel game followed [freedom and unfreedom in the game, Schiller, Briefe über die ästhetische Erziehung des Menschen])
+[[./img/shenti-no1-made-decision-possible-in-all-too-cruel-game.jpg]]
 * Some doubts about carrying out this plan, advice, so many things to look into, but how long to keep exploring the design space? research vs. practical applications
 - seems too good and too laborious? (digital infrastructure :P), many kings and queens died ...
 - real detailed planning and including nations will take at least X months
