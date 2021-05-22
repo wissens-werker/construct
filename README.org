@@ -1,5 +1,7 @@
 #+Title: Construct
 René Tobner, Philosoph der Reflexion
+* just watch:
+- https://www.youtube.com/channel/UCarha89fDN150LWUXkaMlyw
 * find this repository at:
 - https://github.com/wissens-werker/construct
 - https://bitbucket.org/salamynder/construct/src/master/
