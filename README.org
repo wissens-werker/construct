@@ -1,15 +1,25 @@
 #+Title: Construct
 René Tobner, Philosoph der Reflexion
-* General Perspective
+* just watch:
+- best form of humans in general (health, beauty by head first symmetry):
+  - head first symmetry means: getting the jaw out / den Kiefer ablassen (AT YOUR OWN RISK!)
+    - https://youtu.be/QFbVg6nehyA
+    - https://vimeo.com/554218337
+      - Download: [[./vids/Sit%20rinse_%20Feel%20more%20free,%20but%20your%20own%20risk%20https___github.com_wissens-werker_construct.mp4][./vids/Sit rinse_ Feel more free, but your own risk https___github.com_wissens-werker_construct.mp4]]
+
+    - see symmetry and other-side-press below (LESS RISK)
+
+Other content:
+- https://www.youtube.com/channel/UCarha89fDN150LWUXkaMlyw
+- https://vimeo.com/user140924491
+
+* General Perspective (if ppl can be beautiful, healthy so easily, what does this mean for society?)
 more shifts
 more ppl in work
 more party
 
 - see heading "economics" in: [[./world-wide-wished-for-things.org]]
 
-* just watch:
-- https://www.youtube.com/channel/UCarha89fDN150LWUXkaMlyw
-- https://vimeo.com/user140924491
 * find this repository at:
 - https://github.com/wissens-werker/construct
 - https://bitbucket.org/salamynder/construct/src/master/
