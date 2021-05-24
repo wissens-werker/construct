@@ -14,9 +14,12 @@ Other content:
 - https://vimeo.com/user140924491
 
 * General Perspective (if ppl can be beautiful, healthy so easily, what does this mean for society?)
+
+#+BEGIN_SRC 
 more shifts
 more ppl in work
 more party
+#+END_SRC
 
 - see heading "economics" in: [[./world-wide-wished-for-things.org]]
 
