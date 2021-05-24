@@ -1,3 +1,21 @@
+* DONE <2021-05-23 So> Philippinen, Manila, General Amnesty
+- https://www.youtube.com/watch?v=ihYOrVxIxeE
+  - Duterte:
+    - de: Manche sagen immer noch wir würden nicht genug tun. Wir haben Krankenhäuse, Betten, Bestattungsinstitute. Was denn nun noch?
+    - en: Some say, yet, we wouldn't do too much. We have hospitals, beds, undertaker companies. What else?
+  - yes, and children are not allowed to play outside or put into dog cages
+  - yes, it's all about privileges and no one is interested in really taking care of the world, although we have complete health available so strange, but easily, and well technology, whatever there is, and thinking about standards and negotiations and running things smoothly with for example market makers (RIP Jane Street)
+    - well, everything was doomed since 2005 at least ever more invisible wars, a culture of infighting and retaliation
+      - now and Trier and elsewhere I am asked to retaliate a lot, def. enough reasons to do so
+        - already Jasper Van der Jeugt was convinced this whole event is just produced by:
+          - riding in ppl indirectly by "this is KQ, it is allowed to kill", i.e. making a kill indirectly by ppl who knew me (and many of them are not @ IAT)
+          - now he was killed by my "supporters" here just by believing in this logic, history of KQ
+            - RIP Jasper, who did believe in reason, he may earned so by his actions, but the roots of evil are they touched? just lured by make a kill for me: the above logic is clear to us; do I condone the logic of his killers, no, not at all! why him? he trusted in my reasoning, his trust misused
+          - again after Jane Street, my "supporters" here in Trier, who should fulfill my will, have encouraged me to TAKE DOWN A NOTE about Jasper Van der Jeugt (https://jaspervdj.be/) describing how he became a killer (this note also included a concise description of the innards of the pandemic, which could have led to a world-wide panic, I was told -- that's why I took it down)
+            - so GENERAL AMNESTY! => rinse, unreachability, who wants it; "freedom" to go for all!
+        - this already enough to have a GENERAL AMNESTY! and I consider this done, stay safe!
+
+  - note about standards 5G on ARTE fighting about market share inhibiting progress for the whole world
 * <2021-05-12 Mi> websockets vs. email
 how to do efficient data collecting? just send sth. out via E-Mail with JSON payload attachment, listen to that, no web sockets needed!
   - even the oracle thing for blockchain, no one could think of an easy way to do it???? wat???!!!
