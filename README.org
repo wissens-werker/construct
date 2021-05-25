@@ -1,5 +1,9 @@
 #+Title: Construct
 René Tobner, Philosoph der Reflexion
+* find this repository at:
+- https://github.com/wissens-werker/construct
+- https://bitbucket.org/salamynder/construct/src/master/
+- https://gitlab.com/wissens-werker/construct
 * About Health/Beauty: Head First Symmetry via Vinegar Rinse, Stream Control via Other-Side-Press
 - best form of humans in general (health, beauty by head first symmetry):
   - head first symmetry means: getting the jaw out / den Kiefer ablassen (AT YOUR OWN RISK!)
@@ -314,7 +318,3 @@ Otherwise corruption via two-class-society will creep in again, so no eternal em
     - some (un-)safety in big picture: random evolution on this planet, social intelligence, an ABIOGRAPHICAL record we miss most of the time
 - the world of a host should be enough to life forms to flourish, proven by humans acting in my world with agents; how to do it with artificial agents?
 
-* find this repository at:
-- https://github.com/wissens-werker/construct
-- https://bitbucket.org/salamynder/construct/src/master/
-- https://gitlab.com/wissens-werker/construct
