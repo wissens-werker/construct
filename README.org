@@ -5,7 +5,9 @@ René Tobner, Philosoph der Reflexion
   - head first symmetry means: getting the jaw out / den Kiefer ablassen (AT YOUR OWN RISK!)
     - https://youtu.be/QFbVg6nehyA
     - https://vimeo.com/554218337
-      - Download: [[./vids/Sit%20rinse_%20Feel%20more%20free,%20but%20your%20own%20risk%20https___github.com_wissens-werker_construct.mp4][./vids/Sit rinse_ Feel more free, but your own risk https___github.com_wissens-werker_construct.mp4]]
+      - Download:
+        - [[./vids/Sit%20rinse_%20Feel%20more%20free,%20but%20your%20own%20risk%20https___github.com_wissens-werker_construct.mp4][./vids/Sit rinse_ Feel more free, but your own risk https___github.com_wissens-werker_construct.mp4]]
+        - [[./vids/Yay-surig-medium-hot-water-at-fingertips-press-head.mp4]]
 
     - see symmetry and other-side-press below (LESS RISK)
 
@@ -13,7 +15,42 @@ Other content:
 - https://www.youtube.com/channel/UCarha89fDN150LWUXkaMlyw
 - https://vimeo.com/user140924491
 
-* General Perspective (if ppl can be beautiful, healthy so easily, what does this mean for society?)
+* How to plan/construct for the world? How to have happiness for all? / Ist Glück für alle praktisch möglich? Wenn, dann nur so:
+- thinking about it, write it down
+  - [[./world-wide-wished-for-things.org]]
+  - Why not only communication from citizen to citizen, politician to politician? (our world got so complicated, so many nations evolving, so many attempts makings sense of people's characters, viewpoints...)
+    - good as long as results are recorded/merged in the plan (=one data model [1DM], one central authority [1CA])
+    - the real problem in the world: *too many CAs* of nations and other players, not willing to give in to one CA
+    - moving to 1CA while keeping nations/ppl proud/happy is the logical conclusion of the *too many CAs* problem
+      - Wasn't there something like international German/English? :-)
+      - Wasn't there something like [[./weltbuehne.org]] ?
+        - one day's hard labor in my realm stage (nowadays purgatory, inferno hopefully done) with so many directors, hopefully the last
+
+- and implement some important goals of this plan, gather feedback, optimize the plan
+  - rinse and repeat to have some paradise won in time
+
+- [alignment] How to have HAPPINESS with your own body? Resolving (?) the distinction (dualism?) of body and mind resulting in more body (beauty/symmetry) and more mind (/quickthink/).
+  - as with meat: You have to believe it.
+    - head first symmetry means: getting the jaw out / den Kiefer ablassen (AT YOUR OWN RISK!)
+      - https://youtu.be/QFbVg6nehyA
+      - https://vimeo.com/554218337
+      - [[./vids/Yay-surig-medium-hot-water-at-fingertips-press-head.mp4]]
+  - more advice BELOW "body in symmetry"
+    - see symmetry and other-side-press below (LESS RISK)
+  - *AT YOU OWN RISK*
+
+- If you can be HAPPY with others depends on the plan mentioned ABOVE
+
+- /quickthink/ was def. missing in some important realm of discourse (What brought us here? How to play against this host, bringing health plus a simple and whereby brilliant plan to cope with the world? Smart play: too daunting, better make players dumb, how to get out of it? Ok, this realm got smart again or is working on it, but what about the world?)
+
+#+BEGIN_SRC
+  To be smart for yourself: your smarts  might outwit   someone else
+  To be free  for yourself: your freedom might endanger someone else
+  - free market has same problem
+#+END_SRC
+
+** Reminder again on 1CA = 1 plan = world-wide-wished-for-things
+A functional state for functional citizens. Everything needs to be optimized, not only your own body, that's the gold standard. What else to aim for?
 
 #+BEGIN_SRC 
 more shifts
@@ -23,10 +60,6 @@ more party
 
 - see heading "economics" in: [[./world-wide-wished-for-things.org]]
 
-* find this repository at:
-- https://github.com/wissens-werker/construct
-- https://bitbucket.org/salamynder/construct/src/master/
-- https://gitlab.com/wissens-werker/construct
 * being sceptical about personal contact condoning this plan OR THIS HEALING METHOD!!!
 - playing with me after I learned to rinse and to be stronK was one thing, but having me loose my smile by constantly shaming and talking down to me (not all, not all the time) ... impossible to enjoy music; enjoying food, music, and supreme cultural artefacts was all what was left, this world some enjoyed with, then most of them were crushed by cheese-headed power (that's why I got into cheese lock, right, that's it); also a strange pandemic hit the world really hard...
 
@@ -68,37 +101,6 @@ more party
   - host resurrection via pancakes, nutella, banana, crunchy peanut (dm) as energy to sit rinse:
     - energy alignment: [[vids/Yay-surig-medium-hot-water-at-fingertips-press-head.mp4]]
     - but: meat and sleep (or better: meat [or similar already] at midday)
-* How to plan/construct for the world? How to have happiness for all? / Ist Glück für alle praktisch möglich? Wenn, dann nur so:
-- thinking about it, write it down
-  - [[./world-wide-wished-for-things.org]]
-  - Why not only communication from citizen to citizen, politician to politician? (our world got so complicated, so many nations evolving, so many attempts makings sense of people's characters, viewpoints...)
-    - good as long as results are recorded/merged in the plan (=one data model [1DM], one central authority [1CA])
-    - the real problem in the world: *too many CAs* of nations and other players, not willing to give in to one CA
-    - moving to 1CA while keeping nations/ppl proud/happy is the logical conclusion of the *too many CAs* problem
-      - Wasn't there something like international German/English? :-)
-      - Wasn't there something like [[./weltbuehne.org]] ?
-        - one day's hard labor in my realm stage (nowadays purgatory, inferno hopefully done) with so many directors, hopefully the last
-
-- and implement some important goals of this plan, gather feedback, optimize the plan
-  - rinse and repeat to have some paradise won in time
-
-- [alignment] How to have HAPPINESS with your own body? Resolving (?) the distinction (dualism?) of body and mind resulting in more body (beauty/symmetry) and more mind (/quickthink/).
-  - as with meat: You have to believe it.
-    - [[vids/Yay-surig-medium-hot-water-at-fingertips-press-head.mp4]]
-  - more advice BELOW "body in symmetry"
-  - *AT YOU OWN RISK*
-
-- If you can be HAPPY with others depends on the plan mentioned ABOVE
-
-- /quickthink/ was def. missing in some important realm of discourse (What brought us here? How to play against this host, bringing health plus a simple and whereby brilliant plan to cope with the world? Smart play: too daunting, better make players dumb, how to get out of it? Ok, this realm got smart again or is working on it, but what about the world?)
-
-#+BEGIN_SRC
-  To be smart for yourself: your smarts  might outwit   someone else
-  To be free  for yourself: your freedom might endanger someone else
-  - free market has same problem
-#+END_SRC
-
-- reminder again on 1CA
 * What is a human being? / Was ist der Mensch?
 What if something is missing to human health in general: rinsing the head to get head first balance/symmetry? Maybe, we as species have lost something while learning the upright carriage.
 
@@ -297,3 +299,8 @@ Otherwise corruption via two-class-society will creep in again, so no eternal em
     - free -- but mechanical -- will of the human machine :: adding new ideas to our set of coherent thoughts / our valid personal record
     - some (un-)safety in big picture: random evolution on this planet, social intelligence, an ABIOGRAPHICAL record we miss most of the time
 - the world of a host should be enough to life forms to flourish, proven by humans acting in my world with agents; how to do it with artificial agents?
+
+* find this repository at:
+- https://github.com/wissens-werker/construct
+- https://bitbucket.org/salamynder/construct/src/master/
+- https://gitlab.com/wissens-werker/construct
