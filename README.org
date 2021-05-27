@@ -110,8 +110,20 @@ Other content:
 #+BEGIN_SRC
   To be smart for yourself: your smarts  might outwit   someone else
   To be free  for yourself: your freedom might endanger someone else
-  - free market has same problem
+  - free market has same problem, but to see the problem...
 #+END_SRC
+
+** The free market and governance problem (not to forget)
+
+- regarding the distribution of goods: a well-governed free market/economy even by digital means seems like a contradiction in itself: how can a market be free and governed at the same time?
+  - to circumvent this contradiction the claim is: we can do it somehow via digital infrastructure, which includes the state to some degree, so that it can be well-governed and free at the same time (and not go bankrupt every few decades)
+
+The market:
+  - free actors (may also try to force governance)
+  - vs.
+  - unfree actors (forced by too free/powerful actors)
+  - vs.
+  - governance by a government (a trying to be neutral entity [das Allgemeinwohl, Neutralität gegenüber allen Bürgern, im Auge: der Staat])
 
 ** Reminder again on 1CA = 1 plan = world-wide-wished-for-things
 A functional state for functional citizens. Everything needs to be optimized, not only your own body, that's the gold standard. What else to aim for?
