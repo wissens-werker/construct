@@ -237,13 +237,13 @@ The next more complicated principle is symmetry, observable in many natural phae
 - symmetry: guaranteeing bodily integrity of citizens, but not ruling out asocial/criminal behaviour
 
 What kind of principles can we rely while trading goods? /Natural/ principles like the ones above are impossible to apply, we are in the realm of /culture/, we need to govern it somehow. (Die "Schere", der Gegensatz zwischen Arm und Reich führt zu zuviel Unmut in der Gesellschaft. Ein Flickenteppich von Königreichen, Technologie erprobend. Arm und Reich. Nun, (Körper-) Technologie und 1CA vs. Austerität. Wie sicher ist man als König (sit rinse, Abschirmung)? Und Bomben, Kontrolle überall? Wo will, wo könnte man noch Urlaub machen? Wer stellt Sachen her in unserer tollen weltweiten Ökonomie? Können die Menschen das nicht besser, erst recht mit besser Bildung? Wieviel kann man managen per Macht vs. Bildung? Und Bildung ist jetzt erst richtig möglich. So viel Verwirrung herrscht immer noch und wird auch ausgenutzt, aber gibt es nicht einen konstruktiven Weg?)
-- regarding the distribution of goods: a well-governed free market/economy by digital means seems like a contradiction in itself: how can a market be free and governed at the same time?
+- regarding the distribution of goods: a well-governed free market/economy (even) by digital means seems like a contradiction in itself: how can a market be free and governed at the same time?
   - to circumvent this contradiction the claim is: we can do it somehow via digital infrastructure, which includes the state to some degree, so that it can be well-governed and free at the same time (and not go bankrupt every few decades)
 
 The market:
   - free actors (may also try to force governance)
   - vs.
-  - unfree actors (forced by too free/powerful actors)
+  - unfree actors (may be forced by too free/powerful actors -> government should intervene)
   - vs.
   - governance by a government (a trying to be neutral entity [das Allgemeinwohl, Neutralität gegenüber allen Bürgern, im Auge: der Staat])
 
