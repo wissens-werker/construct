@@ -10,7 +10,7 @@
             - => convincingly health testing ppl (yes, it's about, see below... the world in my realm)
     - ... and improving the plan: [[./world-wide-wished-for-things.org]]
       - to have paradise won in time ...
-        - digital economy, what can that mean? PEPE tobacco, 4 flavors (weak to strong), shops struggle to contract a package of 3 or 4 flavors; keeping track of contracts with shops is done via digital book keeping software and personnel managing the contracts (overview of product strategy might be lacking because better b2b [business to business] integration missing?!); integrating book keeping and smart contracts: more flexibility/overview in b2b, more shops acquired? shops also better able to adapt to customers wishes?
+        - digital economy, what can that mean? handrolling tobacco, 4 flavors (weak to strong), shops struggle to contract a package of 3 or 4 flavors; keeping track of contracts with shops is done via digital book keeping software and personnel managing the contracts (overview of product strategy might be lacking because better b2b [business to business] integration missing?!); integrating book keeping and smart contracts: more flexibility/overview in b2b, more shops acquired? shops also better able to adapt to customers wishes?
           - this lacking flexibility:
               - with tobacco and its long shelve life, it doesn't really matter, but in the food sector "second hand b2b" has developed to manage this waste of food (Lebensmittel: die "Tafeln" [social entrepreneurs] are some business to reuse food)
               - employment contracts / Arbeitsverträge: flexibility vs. stability (for both: employer and employee) AND not loosing trust in this relationship
