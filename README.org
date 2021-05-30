@@ -28,7 +28,8 @@ but also: Rinse   and Reason  (safety and alignment of body and society)
   - for Rinse you need energy, e.g.: pancakes (gluten), butter, (fruit-) sugar
   - for Reasoning on your own you need no sugar (even carbs have sugar)
 
-  - for Reasoning about our society: ONE SHARED PLAN FOR THE WHOLE WORLD -> *MAXIMAZING*/optimizing social/cultural reason
+  - for Reasoning about our society:
+    ONE SHARED PLAN FOR THE WHOLE WORLD -> *MAXIMAZING*/optimizing social/cultural reason
 #+END_SRC
   *=>* [[./world-wide-wished-for-things.org]]
 
