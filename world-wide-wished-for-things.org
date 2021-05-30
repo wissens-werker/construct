@@ -16,17 +16,25 @@
 (need to buy this at https://www.123rf.com/photo_94141168_stock-vector-yin-yang-tree.html)
 
 #+BEGIN_SRC
-not only: Meat    and Mingle* (the mingling of sexes, BEWARE: asymmetric physical strength)
+(*) "mingle" is related to yin-yang-thinking of Daoism (yin:weak vs. yang:strong: women vs. men, cold vs. warm ...)
 
-not only: Fleisch und Ficken  (safety and alignment)
+not only: Meat    and Mingle* ( the mingling of sexes and *MINIMAL* social/cultural reason:
 
-but also: Rinse   and Reason  (alignment of body and society)
+                                BEWARE: asymmetric natural  physical (body)    strength !
+                                         symmetric cultural psychic  (mind)    strength ?
+                                           -> not   exploiting  the natural    strength
+                                           -> nicht auszunutzen die natürliche Stärke    )
 
-  - alignment: meet yourself and meet ourselves finally
+not only: Fleisch und Ficken  (safety and alignment of body)
+
+but also: Rinse   and Reason  (safety and alignment of body and society)
+
+- alignment: meet yourself and meet ourselves finally
   - for Rinse you need energy, e.g.: pancakes (gluten), butter, (fruit-) sugar
   - for Reasoning on your own you need no sugar (even carbs have sugar)
 
-(*) "mingle" is related to yin-yang-thinking of Daoism (yin:weak vs. yang:strong: women vs. men, cold vs. warm ...)
+  - for Reasoning about our society: this plan -> *MAXIMAZING*/optimizing social/cultural reason
+
 #+END_SRC
 * TODO Maintaining/improving this file with others
 - work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
