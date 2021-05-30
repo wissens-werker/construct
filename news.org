@@ -7,23 +7,24 @@
         - vaccines:
           - WAY TOO SLOW solution [long term intake of vaccine; Will ppl take it? - and, just public private partnership ripping off state money...])
             - => getting out of vaccination (having it a necessity to give it to ppl) as soon as possible!
-            - => convincingly health testing ppl (yes, it's about, see below... the world in my realm)
+            - => +convincingly health testing ppl+ (yes, it's about, see below... the world in my realm)
+            - => by coincidental counsil: decreasing incidence rates!
     - ... and improving the plan: [[./world-wide-wished-for-things.org]]
       - to have paradise won in time ...
         - digital economy, what can that mean? handrolling tobacco, 4 flavors (weak to strong), shops struggle to contract a package of 3 or 4 flavors, why not only one flavor shop may ask? for: selling variety is the strategy to package 3 or 4; keeping track of contracts with shops is done via digital book keeping software and personnel managing the contracts (overview of product strategy might be lacking because better b2b [business to business] integration missing?!); integrating book keeping and smart contracts: more flexibility/overview in b2b, more shops acquired? shops also better able to adapt to customers wishes?
           - this lacking flexibility:
-              - with tobacco and its long shelve life, it doesn't really matter, but in the food sector "second hand b2b" has developed to manage this waste of food (Lebensmittel: die "Tafeln" [social entrepreneurs] are some business to reuse food)
-              - employment contracts / Arbeitsverträge: flexibility vs. stability (for both: employer and employee) AND not loosing trust in this relationship
-            - => ANYWAY:
-              - interfaces
-                - {the short term goal} : some digital standard way to communicate between different companies' book keeping softwares, also the state and taxes and so on will be important here
-                  - company internal book keeping + having some public blockchain for b2b: is be already /some good progress/
-              - and
-              - this OPEN SOURCE SOFTWARE ("net of nets")
-                - {the long  term goal} : ONE OPEN SOURCE SOFTWARE which will include all the afore mentioned interaction possibilities of interfaces, book keeping done "on chain" {a blockchain and "tezos" is in perspective here}
-                  - why on chain?
-                    - enough insight in transactions is necessary to have enough trust in our social free market system; blockchains guarantee that every transaction is recorded and cannot be manipulated; how else to have trust? THIS INSIGHT HOWEVER MAKES THE {SHORT TERM GOAL} RATHER UNINTERESTING... anyway, it's a good way to start thinking about this flexibility; a truly free and governed and trusted market???! and yes, this smart economy is on its way, many companies are experimenting (see above interface: /some good progress/), but to roll this out for the masses (not only fin tech and economic giants, speaking of monopolies...) and have it easy to have a company (economic frictions and paperwork...)
-                - it just needs to be developed finally; to roll this thing out all over the planet... to have this flexibility in perspective for all businesses
+            - with tobacco and its long shelve life, it doesn't really matter, but in the food sector "second hand b2b" has developed to manage this waste of food (Lebensmittel: die "Tafeln" [social entrepreneurs] are some business to reuse food)
+            - employment contracts / Arbeitsverträge: flexibility vs. stability (for both: employer and employee) AND not loosing trust in this relationship
+          - => ANYWAY:
+            - interfaces
+              - {the short term goal} : some digital standard way to communicate between different companies' book keeping softwares, also the state and taxes and so on will be important here
+                - company internal book keeping + having some public blockchain for b2b: is be already /some good progress/
+            - and
+            - this OPEN SOURCE SOFTWARE ("net of nets")
+              - {the long  term goal} : ONE OPEN SOURCE SOFTWARE which will include all the afore mentioned interaction possibilities of interfaces, book keeping done "on chain" {a blockchain and "tezos" is in perspective here}
+                - why on chain?
+                  - enough insight in transactions is necessary to have enough trust in our social free market system; blockchains guarantee that every transaction is recorded and cannot be manipulated; how else to have trust? THIS INSIGHT HOWEVER MAKES THE {SHORT TERM GOAL} RATHER UNINTERESTING... anyway, it's a good way to start thinking about this flexibility; a truly free and governed and trusted market???! and yes, this smart economy is on its way, many companies are experimenting (see above interface: /some good progress/), but to roll this out for the masses (not only fin tech and economic giants, speaking of monopolies...) and have it easy to have a company (economic frictions and paperwork...)
+              - it just needs to be developed finally; to roll this thing out all over the planet... to have this flexibility in perspective for all businesses
 - all these groups demonstrating against poverty (paying rent) and how stupid Corona/Covid is? (producing poverty by out of work)
   - https://www.youtube.com/watch?v=4dsY5gXLsRg
   - https://www.morgenpost.de/berlin/article232354735/berlin-polizei-querdenker-demo-brandenburger-tor.html
