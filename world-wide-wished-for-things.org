@@ -11,11 +11,23 @@
       - some women really can be safe by securing others for the first time in human history
 * INFO Why world-wide wihsed for things?
 - It's so huge? But it's only this planet in the known universe. But reflection is everywhere, suns, solar systems, ...
-- not only: Fleisch und Ficken (safety and alignment)
-- but also: Rinse and Reason (alignment of body and society)
+
+[[./img/yin-yang-tree.jpg]]
+(need to buy this at https://www.123rf.com/photo_94141168_stock-vector-yin-yang-tree.html)
+
+#+BEGIN_SRC
+not only: Meat    and Mingle* (the mingling of sexes, BEWARE: asymmetric physical strength)
+
+not only: Fleisch und Ficken  (safety and alignment)
+
+but also: Rinse   and Reason  (alignment of body and society)
+
   - alignment: meet yourself and meet ourselves finally
   - for Rinse you need energy, e.g.: pancakes (gluten), butter, (fruit-) sugar
   - for Reasoning on your own you need no sugar (even carbs have sugar)
+
+(*) "mingle" is related to yin-yang-thinking of Daoism (yin:weak vs. yang:strong: women vs. men, cold vs. warm ...)
+#+END_SRC
 * TODO Maintaining/improving this file with others
 - work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
 - one mirror for now: https://gitlab.com/wissens-werker/construct
