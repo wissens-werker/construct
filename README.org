@@ -4,6 +4,53 @@ René Tobner, Philosoph der Reflexion
 - https://github.com/wissens-werker/construct
 - https://bitbucket.org/salamynder/construct/src/master/
 - https://gitlab.com/wissens-werker/construct
+* INFO Why world-wide wished for things?
+The plan can be done (what else to fight for? if not order and leisure in the world), but what to expose of I to whom (this kind of transitioning is too hard to think of, I know, but I once wrote "this was the beginning of this century [and all experience before was only some beautiful or ugly disctruction/disorder and flourishing again], but what will be the end of this century be like, 2200 AD?"; making progress with order AND research [I very useful for research, fast communication])
+
+How to have a real world feedback loop NOT ONLY WITH ME? Just in the internet/web. Anyone can voice issues via "issues". And, maintainers, ppl who try to weigh arguments to optimize the construction via world-wide-wished-things and decide what's in what's not, WILL BE MANY, having the principle of neutrality in mind.
+
+Github or other services are not enough -- everything should open source. Specialized domain and website will be available soon!
+
+
+
+- It's so huge? But it's only this planet in the known universe. But reflection is everywhere, suns, solar systems, ...
+
+[[./img/yin-yang-tree.jpg]]
+(need to buy this at https://www.123rf.com/photo_94141168_stock-vector-yin-yang-tree.html)
+
+#+BEGIN_SRC
+(*) "mingle" is related to yin-yang-thinking of Daoism (yin:weak vs. yang:strong: women vs. men, cold vs. warm ...)
+
+not only: Meat    and Mingle* ( the mingling of sexes and *MINIMAL* social/cultural reason:
+
+                                BEWARE: asymmetric natural  physical (body)    strength !
+                                         symmetric cultural psychic  (mind)    strength ?
+                                           -> not   exploiting  the natural    strength
+                                           -> nicht auszunutzen die natürliche Stärke    )
+
+not only: Fleisch und Ficken  (safety and alignment of body)
+
+but also: Rinse   and Reason  (safety and alignment of body and society)
+
+- alignment: meet yourself and meet ourselves finally
+  - for Rinse you need energy, e.g.: pancakes (gluten), butter, (fruit-) sugar
+  - for Reasoning on your own you need no sugar (even carbs have sugar)
+
+  - for Reasoning about our society:
+    ONE SHARED PLAN FOR THE WHOLE WORLD -> *MAXIMAZING*/optimizing social/cultural reason
+#+END_SRC
+  *=>* [[./world-wide-wished-for-things.org]]
+
+  Two years ago some guy visited some buddy, who showed him how to rinse, but according to the elders, who were not in favor of rinsing because of network reliance and fear of this new body technology, rinsing. (fear? = strange body experience and in contradiction to network reliance; well, and unfreedom targeted; elders? = of course, not everyone over 30 is not in favor of rinsing ["Traue niemandem über 30." / "Don't trust anyone over 30." -- So, ein seltsam beliebter Spruch der Jugend, um sich apart von traditionellen Meinungen zu gerieren. / Such strange saying of trying to be apart from tradition. In context of "parents reaching out to their children, guarding and guidance" -- that doesn't make much sense, having this saying at all ... Traditon vs. Moderne, and 3 years of fighting/mediation ...])
+
+  This buddy is no more.
+
+  Now, with rinsing even easier via sit rinse similar situations may still arise, especially regarding unreachability of women.
+
+  Disrespect. :<
+
+  In addition head signatures will give away your position. Speaking of safety without rinse isn't worth speaking about. Speaking about health, symmetry, beauty, and safety with rinse is wat????
+
 * About Health/Beauty: Head First Symmetry via Vinegar Rinse, Stream Control via Other-Side-Press
 - bird's eye view / Vogelperspektive of Rinsing / Durchspülen
   - https://youtu.be/pY7Bn8PvdYs
@@ -114,46 +161,6 @@ The market:
   - governance by a government (a trying to be neutral entity [das Allgemeinwohl, Neutralität gegenüber allen Bürgern, im Auge: der Staat])
 
 }
-
-* INFO Why world-wide wished for things?
-The plan can be done (what else to fight for? if not order and leisure in the world), but what to expose of I to whom (this kind of transitioning is too hard to think of, I know, but I once wrote "this was the beginning of this century [and all experience before was only some beautiful or ugly disctruction/disorder and flourishing again], but what will be the end of this century be like, 2200 AD?"; making progress with order AND research [I very useful for research, fast communication])
-- It's so huge? But it's only this planet in the known universe. But reflection is everywhere, suns, solar systems, ...
-
-[[./img/yin-yang-tree.jpg]]
-(need to buy this at https://www.123rf.com/photo_94141168_stock-vector-yin-yang-tree.html)
-
-#+BEGIN_SRC
-(*) "mingle" is related to yin-yang-thinking of Daoism (yin:weak vs. yang:strong: women vs. men, cold vs. warm ...)
-
-not only: Meat    and Mingle* ( the mingling of sexes and *MINIMAL* social/cultural reason:
-
-                                BEWARE: asymmetric natural  physical (body)    strength !
-                                         symmetric cultural psychic  (mind)    strength ?
-                                           -> not   exploiting  the natural    strength
-                                           -> nicht auszunutzen die natürliche Stärke    )
-
-not only: Fleisch und Ficken  (safety and alignment of body)
-
-but also: Rinse   and Reason  (safety and alignment of body and society)
-
-- alignment: meet yourself and meet ourselves finally
-  - for Rinse you need energy, e.g.: pancakes (gluten), butter, (fruit-) sugar
-  - for Reasoning on your own you need no sugar (even carbs have sugar)
-
-  - for Reasoning about our society:
-    ONE SHARED PLAN FOR THE WHOLE WORLD -> *MAXIMAZING*/optimizing social/cultural reason
-#+END_SRC
-  *=>* [[./world-wide-wished-for-things.org]]
-
-  Two years ago some guy visited some buddy, who showed him how to rinse, but according to the elders, who were not in favor of rinsing because of network reliance and fear of this new body technology, rinsing. (fear? = strange body experience and in contradiction to network reliance; well, and unfreedom targeted; elders? = of course, not everyone over 30 is not in favor of rinsing ["Traue niemandem über 30." / "Don't trust anyone over 30." -- So, ein seltsam beliebter Spruch der Jugend, um sich apart von traditionellen Meinungen zu gerieren. / Such strange saying of trying to be apart from tradition. In context of "parents reaching out to their children, guarding and guidance" -- that doesn't make much sense, having this saying at all ... Traditon vs. Moderne, and 3 years of fighting/mediation ...])
-
-  This buddy is no more.
-
-  Now, with rinsing even easier via sit rinse similar situations may still arise, especially regarding unreachability of women.
-
-  Disrespect. :<
-
-  In addition head signatures will give away your position. Speaking of safety without rinse isn't worth speaking about. Speaking about health, symmetry, beauty, and safety with rinse is wat????
 
 * How to plan/construct for the world? How to have happiness for all? / Ist Glück für alle praktisch möglich? Wenn, dann nur so:
 - thinking about it, write it down
