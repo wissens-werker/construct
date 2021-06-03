@@ -10,9 +10,13 @@ René Tobner, Philosoph der Reflexion
 (need to buy this at https://www.123rf.com/photo_94141168_stock-vector-yin-yang-tree.html)
 
 * Gesellschaft in Ordnung und Muße? Society in order and leisure?
-- body       -> mind                    -> cooperative reason   (construct, 1CA) -> society in order and leisure
-- Körper     -> Geist                   -> Kooperative Vernunft (construct, 1CA) -> Gesellschaft in Ordnung und Muße
-- [[health.org]] -> [[human-event-machine.org]] -> [[world-wide-wished-for-things.org]]
+#+BEGIN_SRC 
+(*) full thinking cycles with symmetry  
+- symmetry -> reflection(*) -> quickthink           (construct, 1CA) -> society in order and leisure
+- body     -> mind          -> cooperative reason   (construct, 1CA) -> society in order and leisure
+- Körper   -> Geist         -> Kooperative Vernunft (construct, 1CA) -> Gesellschaft in Ordnung und Muße
+#+END_SRC
+- [[health.org]] (of the body via symmetry) -> [[human-event-machine.org]] (quickthink)-> [[world-wide-wished-for-things.org]]
 - why one plan? (world-wide-wished-for-things)
   - too many CAs: [[too-many-cas.org]]
   - theoretical abstract core of every society:  [[abstract-core-of-societies-in-general-nat-religion.org]]
