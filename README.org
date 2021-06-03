@@ -8,26 +8,7 @@ René Tobner, Philosoph der Reflexion
 
 [[./img/yin-yang-tree.jpg]]
 (need to buy this at https://www.123rf.com/photo_94141168_stock-vector-yin-yang-tree.html)
-#+BEGIN_SRC
-(*) "mingle" is related to yin-yang-thinking of Daoism (yin:weak vs. yang:strong: women vs. men, cold vs. warm ...)
 
-not only: Meat    and Mingle* ( the mingling of sexes and *MINIMAL* social/cultural reason:
-
-                                BEWARE: asymmetric natural  physical (body)    strength !
-                                         symmetric cultural psychic  (mind)    strength ?
-                                           -> not   exploiting  the natural    strength
-                                           -> nicht auszunutzen die natürliche Stärke    )
-
-but also: Rinse   and Reason  (safety and alignment of body and society)
-
-- alignment: meet yourself and meet ourselves finally
-  - for Rinse you need energy, e.g.: pancakes (gluten), butter, (fruit-) sugar
-  - for Reasoning on your own you need no sugar (even carbs have sugar)
-
-  - for Reasoning about our society:
-    ONE SHARED PLAN FOR THE WHOLE WORLD -> *MAXIMAZING*/optimizing social/cultural reason
-#+END_SRC
-*=>* [[./world-wide-wished-for-things.org]]
 * Gesellschaft in Ordnung und Muße? Society in order and leisure?
 - body       -> mind                    -> cooperative reason   (construct, 1CA) -> society in order and leisure
 - Körper     -> Geist                   -> Kooperative Vernunft (construct, 1CA) -> Gesellschaft in Ordnung und Muße
