@@ -1,7 +1,11 @@
 #+TODO: TODO @WORK RÜCKFRAGE WAT?! | DONE INFO WAITING
 #+STARTUP: indent
 #+TITLE: world-wide wished for things
-* INFO Why world-wide wished for things?
+* INFO Maintaining/improving this file with others
+- work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
+- one mirror for now: https://gitlab.com/wissens-werker/construct
+  - not safe enough, too (replicated setup of maintainers, issues etc.), just for now to spread responsibility
+** INFO Why and how world-wide wished for things?
 The plan can be done (what else to fight for? if not order and leisure in the world), but what to expose of I to whom (this kind of transitioning is too hard to think of, I know, but I once wrote "this was the beginning of this century [and all experience before was only some beautiful or ugly disctruction/disorder and flourishing again], but what will be the end of this century be like, 2200 AD?"; making progress with order AND research [I very useful for research, fast communication])
 
 How to have a real world feedback loop NOT ONLY WITH ME? Just in the internet/web. Anyone can voice issues via "issues". And, maintainers, ppl who try to weigh arguments to optimize the construction via world-wide-wished-things and decide what's in what's not, WILL BE MANY, having the principle of neutrality in mind. (even if many more ppl having my SSH keys {digital cryptographic keys to manage this repository}, how to avoid edit war? [not speaking about the identity of the philosopher of reflection, but finding consent by objectivity, neutrality in our yet so fragile "community" -- optimizing everything, a very IMPERSONAL view: and it only makes sense this way if we think about managing humanity in general? to detach {to some degree} from your identity vs. star mode being the philosopher king [RIP so many impartials I mentioned some time ago in my todo.org]] & every night someone is invited to doubt me, in turn some more explanations produced {really worthwhile to do so...}; so many devils know it's serious and too hopeful devils get crushed in the meantime, again.)
@@ -49,17 +53,13 @@ but also: Rinse   and Reason  (safety and alignment of body and society)
 
   In addition head signatures will give away your position. Speaking of safety without rinse isn't worth speaking about. Speaking about health, symmetry, beauty, and safety with rinse is wat????
 * INFO Philosophenköniginnen und -könige sind erwünscht
-- Philosophenköniginnen gibt's schon ne ganze Menge
+- philo-sophy = loving-wisdom (die Weisheit lieben, aus Fehlern lernen, und darüber zu kommunizieren, über Fehler, ist so schwer, insbesondere in direkter Anrede, aber ein Text...)
 - Symmetrie, Reflexion, Konstruieren vs. Teufel spielen und so..
 - this and similar: Arabia paid a huge sum for my head, then someone else paid more to keep me safe
   - AND THEN it wasn't that much about money any more?!
   - functional ppl (so many women) are united with my construct and that's it!!!
     - how much /unfreedom/ needs there to be? (slavery is so much ingrained in human "civilization", I know...)
       - some women really can be safe by securing others for the first time in human history
-* TODO Maintaining/improving this file with others
-- work will be done with Gitlab software, awaiting neutral server and replicatable setup (it must be done safely, only relying on Github or similar services is not enough)
-- one mirror for now: https://gitlab.com/wissens-werker/construct
-  - not safe enough, too (replicated setup of maintainers, issues etc.), just for now to spread responsibility
 * TODO IN GENERAL: a functional state for functional citizens
 - functional ppl (so many women) are united with my construct and that's it!!!
     - how much /unfreedom/ needs there to be? (slavery is so much ingrained in human "civilization", I know...)
