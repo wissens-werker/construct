@@ -1,10 +1,10 @@
 #+TODO: TODO @WORK RÜCKFRAGE WAT?! | DONE INFO WAITING
 #+Title: Health
 - also see being your "own doctor" in [[original-construct.org]] 
-* WAT?! Niemand sollte hörig sein, mittels (sit) rinse den freien Willen wieder erlangen!
+* WAT?! Gehorchen vs. Soziale Vernunft
 - genügend gute Überlegungen hier, auf die man hören kann? den eigenen Willen zu informieren...
-- aber aus einer Harmonie des eigenen Körpers folgt nicht automatisch eine Harmonie der Gesellchaft, also bitte auch den Rest dieser Datei nicht vernachlässigen! ("1CA","neutrality", "objectivity", avoiding edit wars in 1CA)
-* WAT?! No one should obey, it's about getting the free will back via (sit) rinse!
+- aber aus einer Harmonie des eigenen Körpers folgt nicht automatisch eine Harmonie der Gesellchaft, also bitte auch den Rest dieser Datei nicht vernachlässigen! ("1CA","neutrality", "objectivity", avoiding edit wars in 1CA = [[./world-wide-wished-for-things.org]])
+* WAT?! Obey vs. Social Reason
 - enough good reasoning around here to adhere to? to inform your will...
 - but your bodily harmony does not imply social harmony, so please see rest of this file and repository, too! (especially [[./world-wide-wished-for-things.org]])
 * About Health/Beauty: Head First Symmetry via Vinegar Rinse, Stream Control via Other-Side-Press
@@ -47,7 +47,7 @@
         - [[./vids/Sit%20rinse_%20Feel%20more%20free,%20but%20your%20own%20risk%20https___github.com_wissens-werker_construct.mp4][./vids/Sit rinse_ Feel more free, but your own risk https___github.com_wissens-werker_construct.mp4]]
         - [[./vids/Yay-surig-medium-hot-water-at-fingertips-press-head.mp4]]
 
-    - NUTRITION:
+    - NUTRITION (DO NOT TRAIN WITH TOO MUCH ENERGY, TRY: LITTLE BIT OF CORNED BEEF)
       - anything ok (gluten [worse cases: better rice], fat, sugar [beware: eye conn.]), just to have energy
       - but:
         - rich/fast energy for the morning:
