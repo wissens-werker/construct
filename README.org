@@ -1,6 +1,9 @@
 #+TODO: TODO @WORK RÜCKFRAGE WAT?! | DONE INFO WAITING
 #+Title: Construct
 René Tobner, Philosoph der Reflexion
+
+- [...] the greatest remote/INDIRECT trick, why to do anything on your own/DIRECTLY? We need more personal effort, free will! Influence/Succumbing is about exploiting others, so at least this repository is about saving people from these attempts.
+- [...] der größte Trick der Menschheit: wie jemanden erreichen und ihn etwas tun lassen: INDIREKT zu arbeiten. Warum dann noch selbst/DIREKT etwas tun? Influenz/Succumbing/Unterwerfen ist Ausbeutung. Dieses Textarchiv/Repositorium dient u.a. dazu diese Praxis einzudämmen, ein Ort der Opfern der Influenz helfen kann.
 * find this repository at:
 - https://github.com/wissens-werker/construct
 - https://bitbucket.org/salamynder/construct/src/master/
@@ -11,10 +14,10 @@ René Tobner, Philosoph der Reflexion
 
 * Be sceptical about personal contact condoning this plan or this healing method!
 - Some people do not like it, be absolutely safe in your room, door and windows locked!
-- "personal" contact: "no sugar, even carbs have sugar" (what to eat in this case?)
+- "personal" contact by influence: "no sugar, even carbs have sugar" (what to eat in this case? Only meat as long as you hear anything + looking into candle! (Sugar has to disappear from your body/eyes!) Canned tuna in oil or similar. See health exercise below to really open your eyes and be satisfied, feeling better, getting more beautiful! Train and rest well several days and you will feel the difference!)
 * Vorsicht ist angebracht bei persönlichem Kontakt zu diesen Ideen / Austerität ja so bequem und wird gerne verteidigt!
 - Sei absolut sicher in deinem Zimmer: Tür abschließen, Fenster zu.
-- "persönlicher" Kontakt?: "sogar Kohlenhydrate haben Zucker" (Was essen in diesem Falle?)
+- "persönlicher" Kontakt per Influenz?: "sogar Kohlenhydrate haben Zucker" (Was essen in diesem Falle? Nur Fleisch bis man nichts mehr hört + in Kerze schauen. (Der Zucker muss aus deinem Körper, von deinen Augen verschwinden!) Tunfisch in Öl o.ä. Sowie: siehe Gesundheitsübung unten um deine Augen richtig zu öffnen und schöner zu werden! So zu trainieren und gut auszuruhen in Sicherheit für einige Tage, und es wird wieder!)
 * Gesellschaft in Ordnung und Muße? Society in order and leisure?
 #+BEGIN_SRC 
 (*) full thinking cycles with symmetry  
