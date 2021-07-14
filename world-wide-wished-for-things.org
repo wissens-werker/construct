@@ -324,6 +324,10 @@ Meritokratie und Technokratie hand in hand
 - can wrap tezos
 ** tezos!
 ** cardano?
+** PL design
+- object oriented method invocation: having an object and acting on it, but where does this object come from? Certainly from some function. Programmers are very much used to postfix method invocation, but how beautiful is Haskell and how usable can it be, if faster, smaller binaries, and last but not least really helpful type error descriptions?
+- CONCRETE THINKING about your program (data structure inspection via debugger) VS. ABSTRACT THINKING about your program (type system error messages at compile have no concrete info about the transformations on your data structures available)
+  - typed FP is very much relying on abstract thinking, to allow debugging of not compiling programmes (understanding type errors [and how insightful can they get, without concrete data structures to inspect?]) might be helpful to get people jump on the train?
 ** Kantorovich/linear programming
 - https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/
 - There are hierarchical levels to the "economy" and central planning may work well at some levels. Companies at the lower levels of the hiearchy are centrally planned entities with managers assigning tasks to employees instead of using a free market to distribute them within the organization. At the middle layer, the free market links these centrally planned companies and force them to compete. It's an open question whether having a centrally planned top layer to handle national economic strategy and steer market forces is better than letting the free market handle that as well.
@@ -348,6 +352,11 @@ Meritokratie und Technokratie hand in hand
 - state of the art of internet backbone? Huawei vs. Juniper (autonomous/self-driving networks?)
 - related: how good connection bandwidth? fiber to the home investment!!
 * education/research
+** Influence and testing students in school
+- is completely at odds
+- shieldable classrooms until students can rinse / TODO: god dammi't I need to see someone rinse through!
+** Rethinking knowledge according to the /Principle of Reflection/
+- see: [[abstract-core-of-societies-in-general-nat-religion.org]]
 ** AI
 - having two worlds makes research stupid, combining knowledge would finally be advised
   - [[https://www.ft.com/content/1ff66eb9-166f-4082-958f-debe84e92e9e][What separates humans from AI? It’s doubt]]
